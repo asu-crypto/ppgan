@@ -1,4 +1,5 @@
-# Privacy Preserving Generative Adversarial Network
+# PPGAN
+Official Implementation of the paper: "Achieving Data Reconstruction Hardness and Efficient Computation in Multiparty Minimax Training" [link](https://drive.google.com/file/d/16a0NW6YnIhtJgYHU_T3kb81eMTRe2wO1/view?usp=drive_link)
 
 ## CelebA dataset
 Download the cropped 64x64 CelebA dataset for training at [link]()
